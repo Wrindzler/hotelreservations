@@ -1,4 +1,4 @@
-Bu maraton kapsamında geliştirilecek çözümlerle daha önce bireysel veya grup olarak
+Geliştirilecek çözümlerle daha önce bireysel veya grup olarak
 rezervasyon yapmış müşteriler için konaklama tarihinden önce aynı otelde daha cazip bir
 fırsatın oluşup oluşmadığının kontrol edilmesi ve mümkünse rezervasyonun avantajlı şartlarla
 yenilenmesi amaçlanmaktadır.
